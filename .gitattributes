@@ -1,0 +1,9 @@
+.gitattributes text eol=lf
+.gitignore text eol=lf
+.python-version text eol=lf
+* text=auto
+*.py text eol=lf
+*.txt text eol=lf
+*.ttf binary
+*.png binary
+*.mp3 binary
